@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=M.Sai%20Nandhan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm M.Sai Nandhan, a 2nd-year Computer Science student and Frontend Developer 
+I'm Sufian, a 2nd-year Computer Science student and Frontend Developer (now learning full stack )
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
@@ -15,13 +15,13 @@ I'm M.Sai Nandhan, a 2nd-year Computer Science student and Frontend Developer
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:sainandhanmucharla@gmail.com">
+  <a href="mailto:contact.sufianchoudhury@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/sainandhan">
+  <a href="https://www.linkedin.com/in/sufian0">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/nandhan2006/">
+  <a href="https://www.instagram.com/sufianabcy/">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <!-- <a href="https://discord.com/users/">
@@ -30,10 +30,10 @@ I'm M.Sai Nandhan, a 2nd-year Computer Science student and Frontend Developer
 </p>
 
 <!-- <p align="center">
-  <a href="https://github.com/SaiNandhan06">
+  <a href="https://github.com/sufianabcy">
     <img src="https://komarev.com/ghpvc/?username=SaiNandhan&color=3a8296&label=Profile%20Views" />
   </a>
-  <a href="https://github.com/SaiNandhan06">
+  <a href="https://github.com/sufianabcy">
     <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p> -->
