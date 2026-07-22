@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=A.Sufian%20Choudhury&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm Sufian, a 2nd-year Computer Science student and Frontend Developer (now learning full stack )
+I'm Sufian, a 3nd-year CS student.
 
 💡 *"Learning to deep dive into things and be lost in that world."*
 
