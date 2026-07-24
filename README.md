@@ -1,105 +1,144 @@
-
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Abu Sufian Choudhury!
-
-💻 **Backend & AI Developer**  
-🔐 Passionate about Backend Engineering, Artificial Intelligence, Cloud Computing, and Blockchain Technology  
-⚡ Building scalable applications, cloud-native services, and AI-powered solutions  
-🚀 Continuously learning modern technologies and contributing to impactful projects  
-
-<br>
+<h1 align="center">Hi, I'm Abu Sufian Choudhury 👋</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sufianabcy&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sufianabcy&theme=github-dark-blue&hide_border=true" />
+  <strong>Backend Developer • AI Engineer • Cloud Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianabcy&layout=compact&theme=github_dark&hide_border=true" />
+Building scalable backend systems, AI-powered applications, and cloud-native solutions.
+</p>
+
+<p align="center">
+  <a href="mailto:contact.sufianchoudhury@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sufian0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sufianabcy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+## About Me
 
-## 🧠 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
-## ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-</p>
-
-### 🤖 AI & LLM
-- LangChain
-- LangGraph
-- Groq LLM
+- Backend Developer focused on scalable and maintainable systems
+- Building AI-powered applications using LangChain, LangGraph, and LLMs
+- Interested in Distributed Systems, Cloud Computing, and Blockchain
+- Currently exploring Kubernetes, System Design, and Microservices
+- Open to internships, open-source collaboration, and backend engineering opportunities
 
 ---
 
-## ☁️ Cloud & DevOps
+## Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp" />
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,solidity"/>
 </p>
 
----
-
-## 🗄️ Databases & Search
+### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,tailwind"/>
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`LangChain` • `LangGraph` • `Groq API`
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,githubactions"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch"/>
 </p>
 
 ---
 
-# 🌱 Currently Exploring
+## GitHub Statistics
 
-- Backend Engineering
-- Artificial Intelligence & AI Agents
-- Microservices
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sufianabcy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sufianabcy&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianabcy&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+- Microservices Architecture
 - Kubernetes
-- Blockchain Development
 - System Design
-- Cloud-Native Applications
+- AI Agents
+- Cloud-Native Development
+- Blockchain Infrastructure
 
 ---
 
-# 🤝 Open To
+## Featured Technologies
 
-- Backend Engineering
-- AI / ML Systems
-- Blockchain Development
-- Open Source Collaboration
-- Cloud Engineering
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=gcp"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
 
 ---
 
-# 🌐 Connect with Me
+## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sufianchoudhury@gmail.com)
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufian0/)
+<a href="mailto:contact.sufianchoudhury@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sufian0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sufianabcy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to connect, collaborate, or explore my repositories.**
-
+<p align="center">
+Thanks for visiting my profile!
+</p>
