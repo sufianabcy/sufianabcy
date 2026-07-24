@@ -8,7 +8,14 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&cache_seconds=1)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sufianabcy&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sufianabcy&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianabcy&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
