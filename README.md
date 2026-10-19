@@ -1,113 +1,58 @@
-<h1 align="center">Hi, I'm Abu Sufian Choudhury 👋</h1>
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Abu Sufian Choudhury!
 
-<p align="center">
-  <strong>Backend Developer • AI Engineer • Cloud Enthusiast</strong>
-</p>
+💻 <b>Full-Stack Developer</b> · 3rd-year CSE student at KL University  
+🧠 Sharpening DSA and building full-stack projects end to end  
+🔐 Exploring cybersecurity, blockchain, networking and shell scripting  
+☁️ Shipping apps to the cloud and learning something new every day  
 
-<p align="center">
-Building scalable backend systems, AI-powered applications, and cloud-native solutions.
-</p>
+<br>
 
-<p align="center">
-  <a href="mailto:contact.sufianchoudhury@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sufian0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sufianabcy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=sufianabcy&theme=dark)
 
----
 
-## About Me
+## 🛠️ What I'm Working On
+- 🗓️ **[Planner](https://github.com/sufianabcy/scheduler)** — a daily planner with monthly goals, step-by-step projects, repeating tasks and push reminders; installable as an app on Android and Mac (Preact + Vite, Node.js + Express, SQLite, deployed on AWS with GitHub Actions)
+- 💸 **Expense Tracker** — a lightweight, local-only Android app in Kotlin that reads expenses from SMS
+- 📈 **Concept-Drift Adaptation Engine** — a streaming classifier with drift detection, deployed on AWS
 
-- Backend developer passionate about scalable and maintainable software.
-- Building AI-powered applications using **LangChain**, **LangGraph**, and **LLMs**.
-- Interested in **Backend Engineering**, **Cloud Computing**, **System Design**, and **Blockchain**.
-- Currently learning **Kubernetes**, **Microservices**, and **Cloud-Native Architecture**.
-- Open to internships, backend engineering, AI, and open-source opportunities.
 
----
+## 🚀 Tech Stack
 
-## Tech Stack
-
-### Languages
-
+### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,js,bash" />
 </p>
 
-### Frameworks & Libraries
-
+### ⚙️ Frameworks & Web
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,tailwind" />
 </p>
 
-### AI
-
-- LangChain
-- LangGraph
-- Groq API
-
-### Cloud & DevOps
-
+### ☁️ Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-### Databases
-
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb" />
 </p>
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sufianabcy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=sufianabcy&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufianabcy&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Currently Learning
-
-- Backend Engineering
-- System Design
-- Microservices
-- Kubernetes
-- AI Agents
-- Blockchain Development
-
----
-
-## Connect
-
+### 🔐 Security, Blockchain & Systems
 <p>
-  <a href="mailto:contact.sufianchoudhury@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sufian0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/sufianabcy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,kali,solidity" />
 </p>
 
----
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
+### 🧰 Tools & Setup
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,apple,vscode,idea,eclipse,androidstudio" />
 </p>
+
+
+## 🌐 Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufianabcy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_HANDLE/)
+
+⭐ **Don't forget to star my repositories if you find them useful!** 😊
