@@ -1,9 +1,9 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">, I'm Abu Sufian Choudhury!
+# Hi, I'm Abu Sufian Choudhury!
 
-💻 <b>Full-Stack Developer</b> · 3rd-year CSE student at KL University  
-🧠 Sharpening DSA and building full-stack projects end to end  
-🔐 Exploring cybersecurity, blockchain, networking and shell scripting  
-☁️ Shipping apps to the cloud and learning something new every day  
+ <b>Full-Stack Developer</b> · 3rd-year CSE student at KL University  
+ Sharpening DSA and building full-stack projects end to end  
+ Exploring cybersecurity, blockchain, networking and shell scripting  
+ Shipping apps to the cloud and learning something new every day  
 
 <br>
 
