@@ -1,4 +1,4 @@
-<a href="https://sufian-choudhury.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Abu Sufian Choudhury. B.Tech CSE (Cybersecurity) at KL University. Builds secure backends, full-stack apps and security tools. Open to internships." /></a>
+<a href="https://sufian-choudhury.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Abu Sufian Choudhury. B.Tech CSE (Cybersecurity & Computer Networking) at KL University. Builds secure backends, full-stack apps and security tools. Open to internships." /></a>
 
 <img src="./cards/graph.svg" width="100%" alt="My GitHub contributions in the last year" />
 
